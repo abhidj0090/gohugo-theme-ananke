@@ -1,8 +1,7 @@
-title = "Calcom"
+title = "Calcom2"
 baseURL = "https://calcom2.netlify.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
-themesDir = "../.."
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
