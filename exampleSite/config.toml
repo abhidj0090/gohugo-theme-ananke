@@ -1,7 +1,6 @@
 title = "Calcom2"
 baseURL = "https://calcom2.netlify.com"
 languageCode = "en-us"
-theme="https://github.com/theNewDynamic/gohugo-theme-ananke"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
